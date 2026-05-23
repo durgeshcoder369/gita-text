@@ -14,7 +14,7 @@
     },
     "3": {
       "verse_number": 3,
-      "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् |\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता || ३ ||",
+      "sanskrit": "पश्यैतां पाण्डuपुत्राणामाचार्य महतीं चमूम् |\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता || ३ ||",
       "hindi": "दुर्योधन ने कहा - हे आचार्य! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्युम्न) द्वारा व्यूहाकार खड़ी की हुई पाण्डुपुत्रों की इस बड़ी भारी सेना को देखिए।",
       "english": "Duryodhana said: Behold, O Teacher, this mighty army of the sons of Pandu, arrayed in military formation by your talented disciple, the son of Drupada."
     },
@@ -106,7 +106,7 @@
       "verse_number": 18,
       "sanskrit": "द्रुपदो द्रौपडेयाश्च सर्वशः पृथिवीपते |\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् || १८ ||",
       "hindi": "हे पृथ्वीपते! राजा द्रुपद, द्रौपदी के पांचों पुत्र और बड़ी भुजाओं वाले सुभद्रापुत्र अभिमन्यु—इन सबने सब ओर से अलग-अलग अपने शंख बजाए।",
-      "english": "O Lord of the Earth! King Drupada, the sons of Draupadi, and the strong-armed son of Subhadra, all blew their respective conch shells from all sides."
+      "english": "O Lord of the Earth! King Drupada, the sons of Druapadi, and the strong-armed son of Subhadra, all blew their respective conch shells from all sides."
     },
     "19": {
       "verse_number": 19,
@@ -128,7 +128,7 @@
     },
     "22": {
       "verse_number": 22,
-      "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |\nकैर्मया सह योद्धव्यमस्मीन रणसमुद्यमे || २२ ||",
+      "sanskrit": "यावदेतान्निरीखेऽहं योद्धुकामानवस्थितान् |\nकैर्मया सह योद्धव्यमस्मीन रणसमुद्यमे || २२ ||",
       "hindi": "जब तक कि मैं युद्ध की इच्छा से खड़े हुए इन विपक्षी योद्धाओं को अच्छी तरह देख न लूं कि इस युद्ध के उद्योग में मुझे किन-किन के साथ लड़ना योग्य है।",
       "english": "So that I may observe those who stand here desiring to fight, and know with whom I must battle in this great enterprise of war."
     },
@@ -171,7 +171,7 @@
     "29": {
       "verse_number": 29,
       "sanskrit": "वेपथुश्च शरीरे मे रोमहर्षश्च जायते || २९ ||\nगाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते |",
-      "hindi": "मेरे शरीर में कम्पपन हो रहा है और रोंगटे खड़े हो रहे हैं, हाथ से गाण्डीव धनुष गिर रहा है और त्वचा में बहुत जलन हो रही है।",
+      "hindi": "मेरे शरीर में कम्पन हो रहा है और रोंगटे खड़े हो रहे हैं, हाथ से गाण्डीव धनुष गिर रहा है और त्वचा में बहुत जलन हो रही है।",
       "english": "My body trembles and my hair stands on end. The Gandiva bow slips from my hand and my skin is burning all over."
     },
     "30": {
@@ -183,12 +183,12 @@
     "31": {
       "verse_number": 31,
       "sanskrit": "न च श्रेयोऽनुपश्यामी हत्वा स्वजनमाहवे || ३१ ||\nन काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |",
-      "hindi": "युद्ध में अपने ही बांधवों को मारकर मैं कोई कल्याण नहीं देखता। हे कृष्ण! मैं न तो विजय चाहता हूँ, न राज्य और न सुखों को।",
+      "hindi": "युद्ध में अपने ही बांधवों को मारकर मैं कोई कल्याण देखता। हे कृष्ण! मैं न तो विजय चाहता हूँ, न राज्य और न सुखों को।",
       "english": "I do not see any good in killing my own kinsmen in battle. O Krishna, I desire neither victory, nor kingdom, nor pleasures."
     },
     "32": {
       "verse_number": 32,
-      "sanskrit": "किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा || ३२ ||",
+      "sanskrit": "किं नो राज्येन गोविन्द किं भोगैर्जीविتهन वा || ३२ ||",
       "hindi": "हे गोविंद! हमें ऐसे राज्य से क्या लाभ, अथवा भोगों और जीवन से भी क्या प्रयोजन?",
       "english": "O Govinda, of what use is a kingdom to us, or enjoyments, or even life itself?"
     },
@@ -284,3 +284,4 @@
     }
   }
 }
+
